@@ -7,4 +7,4 @@ I work on making domain AI reliable enough to actually use, mostly in Korean acc
 - **[agent-orchestration](https://github.com/lumatic2/agent-orchestration)** · Claude routes parts of a task to Codex and Gemini for cross-review before anything is accepted. Custom MCP servers and routing rules, with safety guards.
 - **[discord-agents](https://github.com/lumatic2/discord-agents)** · the same verification-first idea run as an eleven-department AI organization.
 
-yusung8307@gmail.com · [LinkedIn](https://www.linkedin.com/in/yusung-jun-b09952279/) · [Portfolio](https://luma3-portfolio.vercel.app/)
+yusung8307@gmail.com · [LinkedIn](https://www.linkedin.com/in/yusung-jun-b09952279/)
