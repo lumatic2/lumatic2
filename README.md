@@ -17,18 +17,14 @@ I build the operating structure around AI systems: domain grounding, citation di
    My public portfolio hub, organized around problems, design choices, verification, and outcomes rather than a flat project list.
 
 3. **[korean-tax-accounting-ax-benchmark](https://github.com/lumatic2/korean-tax-accounting-ax-benchmark)**  
-   한국 회계·세무 AI가 그럴듯하게 말하는지보다 실무 검증을 통과할 수 있는지를 평가하는 벤치마크입니다. 공개 샘플, private holdout, 근거 인용 채점, agent tool-use 평가를 분리해 운영합니다.  
-   A benchmark for Korean accounting and tax AI, separating public samples from private holdouts and checking grounding, calculations, citations, and agent tool use.
+   한국 회계·세무 AI가 그럴듯하게 말하는지보다 실무 검증을 통과할 수 있는지를 평가하는 벤치마크입니다. 공개 샘플, private holdout, 근거 인용 채점, agent tool-use 평가, [리더보드](https://tax-benchmark.askewly.com/)를 분리해 운영합니다.  
+   A benchmark for Korean accounting and tax AI, separating public samples from private holdouts and checking grounding, calculations, citations, agent tool use, and [leaderboard](https://tax-benchmark.askewly.com/) presentation.
 
-4. **[ktaxbench-leaderboard](https://github.com/lumatic2/ktaxbench-leaderboard)**  
-   K-TaxBench 결과를 공개 가능한 형태로 보여주는 리더보드입니다. self-reported score가 아니라 재현 채점된 private holdout 집계를 공개 표면으로 옮깁니다.  
-   A public leaderboard surface for K-TaxBench, designed around reproduced private-holdout runs rather than self-reported scores.
-
-5. **prawn**  
+4. **prawn**  
    제조·ERP 업무 흐름을 AI tool-use와 연결하는 private workspace입니다. 회계, 재고, 거래, 승인 흐름을 실제 제품 구조로 다루며, 공개 가능한 케이스 스터디로 정리 중입니다.  
    A private manufacturing/ERP workspace connecting accounting, inventory, transactions, approvals, and AI tool-use. A public case study is being prepared.
 
-6. **[ui-dictionary](https://github.com/lumatic2/ui-dictionary)**  
+5. **[ui-dictionary](https://github.com/lumatic2/ui-dictionary)**  
    "깔끔하게", "팝업처럼" 같은 모호한 UI 요청을 card, modal, drawer, toast, data table 같은 구체적 컴포넌트 언어로 바꾸는 UI vocabulary 사이트입니다.  
    A UI vocabulary site that turns vague interface requests into concrete component language for designers and AI coding agents.
 
