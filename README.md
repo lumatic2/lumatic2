@@ -20,9 +20,9 @@ I build the operating structure around AI systems: domain grounding, citation di
    한국 회계·세무 AI가 그럴듯하게 말하는지보다 실무 검증을 통과할 수 있는지를 평가하는 벤치마크입니다. 공개 샘플, private holdout, 근거 인용 채점, agent tool-use 평가, [리더보드](https://tax-benchmark.askewly.com/)를 분리해 운영합니다.  
    A benchmark for Korean accounting and tax AI, separating public samples from private holdouts and checking grounding, calculations, citations, agent tool use, and [leaderboard](https://tax-benchmark.askewly.com/) presentation.
 
-4. **prawn**  
-   제조·ERP 업무 흐름을 AI tool-use와 연결하는 private workspace입니다. 회계, 재고, 거래, 승인 흐름을 실제 제품 구조로 다루며, 공개 가능한 케이스 스터디로 정리 중입니다.  
-   A private manufacturing/ERP workspace connecting accounting, inventory, transactions, approvals, and AI tool-use. A public case study is being prepared.
+4. **[prawn-public](https://github.com/lumatic2/prawn-public)**  
+   제조·ERP 업무 흐름을 AI tool-use와 연결하는 Prawn의 공개 mirror입니다. 실제 배포는 private canonical repo에서 운영하고, 공개 mirror에서는 코드, 아키텍처, 스키마, 검증 경계와 [live demo](https://prawn.askewly.com/)를 볼 수 있습니다.  
+   A sanitized public mirror of Prawn, a manufacturing ERP workspace connecting accounting, inventory, transactions, approvals, and AI tool-use. Production runs from the private canonical repo; this mirror exposes code, architecture, schema, verification boundaries, and the [live demo](https://prawn.askewly.com/).
 
 5. **[ui-dictionary](https://github.com/lumatic2/ui-dictionary)**  
    "깔끔하게", "팝업처럼" 같은 모호한 UI 요청을 card, modal, drawer, toast, data table 같은 구체적 컴포넌트 언어로 바꾸는 UI vocabulary 사이트입니다.  
