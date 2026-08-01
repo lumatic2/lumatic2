@@ -1,8 +1,10 @@
 # 전유성 / Yusung Jun
 
-AI가 실제 업무와 제품 안에서 믿고 돌아가게 만드는 구조를 만듭니다. 관심사는 도메인 지식, 근거 인용, 평가 하네스, 에이전트 운영 방식입니다. 최근에는 한국 회계·세무 AX, agent harness, 포트폴리오/제품 공개 표면을 함께 정리하고 있습니다.
+경영학을 전공하며 익힌 사업의 언어로 현장 문제를 읽고, AI-Native 엔지니어링으로 배포까지 직접 닫습니다. 코딩 에이전트로 명세·구현·검증을 잇고, 결과를 믿을 수 있는지 판정하는 평가 구조까지 함께 설계합니다. 관심사는 도메인 지식, 근거 인용, 평가 하네스, 에이전트 운영 방식입니다.
 
-I build the operating structure around AI systems: domain grounding, citation discipline, evaluation harnesses, and agent workflows that can be inspected and improved. My recent work centers on Korean accounting/tax AX, agent harness engineering, and public product surfaces.
+크래프톤 × CJ올리브영 AI Native 해커톤 FDE 트랙 본선 top 6 (약 25명, 2026.07).
+
+I read problems in the language of the business — trained as a management major — and close them all the way to deployment with AI-native engineering: coding agents to connect spec, implementation, and verification, plus the evaluation structure that decides whether the result can be trusted. Finalist, top 6 of ~25 in the FDE track at the KRAFTON × CJ Olive Young AI Native Hackathon (2026.07).
 
 [Portfolio](https://portfolio.askewly.com/) · [LinkedIn](https://www.linkedin.com/in/yusung-jun-b09952279/) · `yusung8307@gmail.com`
 
